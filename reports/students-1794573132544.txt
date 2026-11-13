@@ -1,0 +1,24 @@
+TALABALAR HISOBOTI
+=============================
+
+Jami talabalar soni: 4
+Id: 1
+Name: Ali
+Age: 18
+Course: Node.js
+---------------------------
+Id: 2
+Name: Vali
+Age: 20
+Course: JavaScript
+---------------------------
+Id: 3
+Name: Nodir
+Age: 25
+Course: Robbit
+---------------------------
+Id: 4
+Name: Vali
+Age: 12
+Course: Backend
+---------------------------
